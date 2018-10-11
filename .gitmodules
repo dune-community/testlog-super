@@ -1,0 +1,18 @@
+[submodule "dune-xt-common-testlogs"]
+	path = dune-xt-common-testlogs
+	url = https://github.com/dune-community/dune-xt-common-testlogs
+[submodule "dune-xt-la-testlogs"]
+	path = dune-xt-la-testlogs
+	url = https://github.com/dune-community/dune-xt-la-testlogs
+[submodule "dune-xt-grid-testlogs"]
+	path = dune-xt-grid-testlogs
+	url = https://github.com/dune-community/dune-xt-grid-testlogs
+[submodule "dune-xt-data-testlogs"]
+	path = dune-xt-data-testlogs
+	url = https://github.com/dune-community/dune-xt-data-testlogs
+[submodule "dune-xt-functions-testlogs"]
+	path = dune-xt-functions-testlogs
+	url = https://github.com/dune-community/dune-xt-functions-testlogs
+[submodule "dune-gdt-testlogs"]
+	path = dune-gdt-testlogs
+	url = https://github.com/dune-community/dune-gdt-testlogs
